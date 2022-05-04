@@ -1,0 +1,6 @@
+.idea/
+venv/
+__pycache__
+configure.py
+secret_data.py
+auth_data.py
